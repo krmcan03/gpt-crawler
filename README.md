@@ -1,3 +1,8 @@
+---
+
+[Visit Our Website](https://your-site.com)  
+![Our Logo](https://your-site.com/logo.png)
+
 # GPT Crawler <!-- omit from toc -->
 
 Crawl a site to generate knowledge files to create your own custom GPT from one or multiple URLs
@@ -159,3 +164,8 @@ Know how to make this project better? Send a PR!
        </picture>
    </a>
 </p>
+
+
+---
+
+Thank you @builderio
